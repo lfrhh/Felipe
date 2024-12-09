@@ -6,10 +6,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin
-">
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python
-">
-<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express
-">
+<img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin">
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express">
 </div>
