@@ -6,12 +6,7 @@
 
 ## 📦 Languages & Framework
 
-<div align= "center">
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin">
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express">
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin) ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue) ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express) ![EJS](https://img.shields.io/badge/EJS-black?style=for-the-badge&logo=ejs)
 
 ## 📊 Database
 
