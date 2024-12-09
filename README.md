@@ -16,5 +16,5 @@
 <h2 align="center">My Github stats</h2>
 
 <div align= "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lfrhh&theme=shadown_red">
+  <img src="https://github-readme-stats.vercel.app/api?username=lfrhh&theme=shadow_red">
 </div>
