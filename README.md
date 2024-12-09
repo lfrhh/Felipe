@@ -13,5 +13,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=orange)
 
 ---
+<h2 align="center">My Github stats</h2>
 
-# 👥 Social
+<div align= "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lfrhh">
+</div>
