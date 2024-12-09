@@ -10,6 +10,4 @@
 
 ## 📊 Database
 
-<div align= "center">
-  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=orange">
-</div>
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=orange)
